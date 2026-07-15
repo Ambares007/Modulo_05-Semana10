@@ -1,0 +1,15 @@
+La interfaz estaría estructurada para ser intuitiva y accesible, priorizando la transparencia en la gestión comunitaria. 
+Se dividiría en tres secciones principales:
+
+-Panel de Registro: Un formulario accesible para que cualquier usuario registre una nueva problemática. Este solicita un Título corto,
+una Descripción detallada del hecho y la Categoría del reporte. No se solicitan datos de identificación personal en esta vista pública.
+
+-Muro de Causas Activas: Una vista central que despliega las causas registradas, organizadas por fecha de creación. Cada tarjeta de causa
+es limpia y profesional, mostrando únicamente el título, la categoría y el cuerpo de la descripción.
+
+-Interacción y Seguimiento: Dentro de cada tarjeta de causa, el usuario encontrará un botón de "Apoyar", el cual permite sumar su respaldo
+a la iniciativa. Inmediatamente al lado, se visualiza un Contador de Apoyos que se actualiza dinámicamente, permitiendo a la comunidad 
+ver el nivel de relevancia social de cada problemática.
+
+Para cumplir con los estándares de seguridad, la interfaz está diseñada para omitir cualquier dato sensible; el sistema garantiza que,
+aunque el reporte sea público, la identidad del autor permanezca protegida, convirtiendo la participación en un ejercicio técnico de visibilización colectiva.
