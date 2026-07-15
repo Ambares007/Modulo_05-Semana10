@@ -1,0 +1,9 @@
+1) Yo, como ciudadano, quiero adjuntar fotos a mi reporte para que el equipo de veeduría pueda verificar visualmente el estado del problema.
+
+2) Yo, como vecino, quiero visualizar en un mapa los reportes de mi sector para estar informado sobre las incidencias cercanas a mi hogar.
+
+3) En conjunto con el equipo de veeduría, quiero clasificar los reportes por prioridad para gestionar primero las situaciones de mayor riesgo para la comunida al momento de publicar la informacion.
+
+3) Como miembro del equipo, quiero ver el historial de cambios de un reporte para conocer qué acciones se han tomado para solucionarlo.
+
+4) Como ciudadano, quiero recibir una notificación cuando mi reporte cambie de estado para saber si el problema ya fue atendido o está en proceso.
