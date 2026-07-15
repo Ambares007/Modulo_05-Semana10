@@ -1,0 +1,10 @@
+Una plataforma de participación ciudadana que busca generar impacto real debe apoyarse en pilares técnicos
+sólidos para ser confiable. La base de datos es indispensable porque permite construir un historial histórico,
+lo cual es la base de cualquier veeduría al permitir el seguimiento de casos desde el registro hasta la resolución.
+Sin ella, la información sería volátil y carecería de utilidad para la toma de decisiones. Por su parte, la autenticación
+garantiza que el flujo de gestión sea responsable; al saber quién realiza cada acción, se establece un marco de 
+y rendición de cuentas dentro del equipo. Finalmente, la protección de información no es solo un requerimiento
+técnico, sino un compromiso ético con la comunidad. En procesos de participación, los ciudadanos comparten datos con la 
+expectativa de que su bienestar será resguardado. Si una plataforma no protege la identidad y datos sensibles de sus usuarios,
+pierde la legitimidad necesaria para operar, convirtiéndose en un riesgo en lugar de ser una herramienta de empoderamiento 
+social y democrático.
