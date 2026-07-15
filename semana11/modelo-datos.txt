@@ -1,0 +1,30 @@
+Entidad: Casa Acople.
+
+Campos principales:
+
+id: Reporte #Bol2026_07_Ctg_0002
+
+titulo: Posible contaminación de cuerpo de agua comunitaria.
+
+descripcion: Después de repetidos casos y un patrón común relacionado con el consumo de agua del cuerpo comunitario que cuyo uso es la toma, riego, lavado y actividades relacionadas con el ser humano y sus actividades. 
+Con base a testimonios locales, los habitantes del municipio relacionan la contaminación del agua con actividades mineras y actividades ilegales con grupos al margen de la ley financiados por intereses políticos. 
+
+fecha: Abril 7, 2026. 
+estado: En proceso.
+
+Propósito: Encontrar las causas reales del problema generado/encontrado/estudiado y cómo esto afecta lka interacción de los ciudadanos con el entorno, cómo se puede indemnizar y compensar este daño hacia la población y sus actividades ecómonicas, daño a la flora y fauna. 
+En especial, hallar una solución en conjunto con el equipo para hallar los niveles excesivos de plomo, cianuro y fosforo en el agua.
+
+
+Entidad: EPA.
+
+Campos principales: Ambiantal
+
+id: Registro del caso Bolivar; # 2026_04_20-Comunidad0098.
+
+causa_id: Proteccion_ambientañ
+
+fecha: 2026 Junio 15.
+
+Propósito:
+Registrar de forma anónima, escalada de manera municipal y quorum departamental. 
