@@ -1,0 +1,22 @@
+¿Qué 2 tareas del backlog harías primero?
+
+1) Crear el formulario para el registro de incidencias por parte del ciudadano.
+2) Implementar la recepción del reporte en el servidor (Webhook) y la notificación básica a Telegram.
+
+
+¿Por qué son las más importantes?
+Son el núcleo del sistema. Sin el formulario, no hay entrada de datos, y sin la recepción y notificación, 
+el proceso de veeduría no tiene capacidad de respuesta ni visibilidad sobre las necesidades de la comunidad.
+Constituyen el "Camino Feliz" (Happy Path) del proyecto: el ciudadano reporta y el equipo se entera.
+
+
+¿Qué significa para ti que una tarea esté “terminada”?
+Para mí, una tarea terminada implica que el componente no solo cumple con su función técnica, sino que está
+ integrado de forma segura y rastreable en el flujo del proyecto. No basta con que el código corra en mi entorno
+  local; debe ser una unidad funcional que aporte valor real al sistema y que pueda ser auditada.
+
+
+Definición de terminado (DoD):
+-Funciona: El código cumple con el requerimiento especificado sin errores críticos.
+-Fue probado: Se verificó que el flujo responde correctamente ante entradas válidas y maneja adecuadamente los errores.
+-Quedó registrada en Git: El cambio fue versionado con un mensaje de commit descriptivo y subido al repositorio central para mantener la trazabilidad.
